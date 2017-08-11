@@ -10,5 +10,6 @@
     <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
     <orderEntry type="library" name="commons-dbcp-1.4" level="project" />
     <orderEntry type="library" name="selenium-java-2.44.0" level="project" />
+    <orderEntry type="library" name="selenium-server-standalone-2.24.1" level="project" />
   </component>
 </module>
